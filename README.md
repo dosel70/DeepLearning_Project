@@ -4,7 +4,7 @@ ResNet, EfficentNet, MobileNet 등 다양한 사전훈련 모델들 , 그리고 
 </div>
 
 ## 목차
-##  1.📌 [스포츠 이미지 (100가지) 분류 프로젝트(Click!)](https://github.com/dosel70/MachineLearning-Project/wiki/ML-Project-%E2%80%90-USA-House-Price-Predict-(Regression%E2%80%90LinearData)0))
+##  1.📌 [스포츠 이미지 (100가지) 분류 프로젝트(Click!)](https://github.com/dosel70/DeepLearning-Project-Sports-100/blob/master/README.md)
   - #### 😊 프로젝트 설명 (스포츠 이미지 (100가지) 분류 프로젝트)
   - 해당 프로젝트는 저용량 데이터로 이루어져 있으며, 100가지의 스포츠 이미지가 들어있는 데이터셋으로 진행하였습니다.
     
