@@ -4,7 +4,7 @@ ResNet, EfficentNet, MobileNet 등 다양한 사전훈련 모델들 , 그리고 
 </div>
 
 ## 목차
-##  1.📌 [스포츠 이미지 (100가지) 분류 프로젝트(Click!)](https://github.com/dosel70/DeepLearning-Project-Sports-100/blob/master/README.md)
+##  1.📌 [스포츠 이미지 (100가지) 분류 프로젝트(Click!)](https://github.com/dosel70/DeepLearning_Project/wiki/%EB%94%A5%EB%9F%AC%EB%8B%9D-%E2%80%90-100%EA%B0%80%EC%A7%80-%EC%8A%A4%ED%8F%AC%EC%B8%A0-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EB%A5%98)
   - #### 😊 프로젝트 설명 (스포츠 이미지 (100가지) 분류 프로젝트)
   - 해당 프로젝트는 저용량 데이터로 이루어져 있으며, 100가지의 스포츠 이미지가 들어있는 데이터셋으로 진행하였습니다.
     
